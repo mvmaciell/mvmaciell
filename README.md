@@ -34,15 +34,12 @@ Tenho experiência em **SAP BTP, RAP, OData, Fiori/UI5** e também estou expandi
 ---
 
 ## 🌱 Atualmente estou...
-- Me aprofundando em **SAP BTP (RAP, Fiori Elements, CAP)**  
-- Criando projetos **Fiori/UI5** freestyle no VS Code  
-- Estudando **Front-End moderno com Vue.js e React**  
-- Explorando **Node.js + Docker** para deploy de projetos pessoais  
+- Me aprofundando em **SAP BTP (RAP, Fiori Elements, CAP)**
+- Criando projetos **Fiori/UI5** freestyle no VS Code
+- Estudando **Front-End moderno com Vue.js e React**
+- Explorando **Node.js + Docker** para deploy de projetos pessoais
 
 ---
-
-## 🌐 Onde me encontrar
-
 
 <div> 
   <a href="https://www.instagram.com/mvmaciell/" target="_blank">
