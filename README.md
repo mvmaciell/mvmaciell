@@ -3,48 +3,81 @@
 Sou **Consultor SAP ABAP** e **Desenvolvedor ABAP Cloud/Fiori** certificado, atuando em ambientes **ECC e S/4HANA**.  
 Tenho experiência em **SAP BTP, RAP, OData, Fiori/UI5** e também estou expandindo meus projetos para o **Front-End moderno** com **Vue.js, React, TypeScript, JavaScript, HTML5 e CSS3**.  
 
-<div style="display: inline_block"><br>
+<br>
+
+<!-- Stats -->
+<div align="center">
+  <img width="49%" alt="GitHub Stats de Marcus Vinícius" src="https://github-readme-stats.vercel.app/api?username=mvmaciell&show_icons=true&theme=tokyonight&hide_border=true&v=3" />
+  <img width="49%" alt="Linguagens mais usadas por Marcus Vinícius" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvmaciell&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&custom_title=Linguagens%20mais%20usadas&v=3" />
+</div>
+
+<br>
+
+<!-- Ícones centralizados abaixo dos stats -->
+<div align="center"><br>
   <!-- SAP -->
-  <img align="center" alt="Marcus-ABAP" height="30" width="40" src="https://img.icons8.com/color/48/sap.png" />
-  
+  <img alt="SAP" height="30" width="40" src="https://img.icons8.com/color/48/sap.png" />
+
   <!-- Front-End -->
-  <img align="center" alt="Marcus-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Marcus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Vue.js"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img alt="React"       height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="JavaScript"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="HTML5"       height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3"        height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   <!-- Backend / Suporte -->
-  <img align="center" alt="Marcus-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Marcus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcus-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="Node.js"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Python"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Docker"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ---
 
+<br>
 
-<div align="center">
-  <a href="https://github.com/mvmaciell">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mvmaciell&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvmaciell&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
+<h3 align="center"> Atualmente estou:</h3>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      🚀 <b>Aprofundando em Arquitetura BTP</b><br>
+      ↳ RAP, Fiori Elements, CAP
+    </td>
+    <td align="center" width="25%">
+      🖥️ <b>Criando projetos Fiori/UI5 freestyle</b><br>
+      ↳ Desenvolvimento no VS Code
+    </td>
+    <td align="center" width="25%">
+      🎨 <b>Estudando Front-End moderno</b><br>
+      ↳ Vue.js e React
+    </td>
+    <td align="center" width="25%">
+      🐳 <b>Explorando Node.js + Docker</b><br>
+      ↳ Deploy de projetos pessoais
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
-## 🌱 Atualmente estou...
-- Me aprofundando em **SAP BTP (RAP, Fiori Elements, CAP)**
-- Criando projetos **Fiori/UI5** freestyle no VS Code
-- Estudando **Front-End moderno com Vue.js e React**
-- Explorando **Node.js + Docker** para deploy de projetos pessoais
+## 🔧 Controle de versão & CI/CD
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
----
+## 💻 Sistemas operacionais
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+
+## 📬 Contato
 <div> 
-  <a href="https://www.instagram.com/mvmaciell/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/mvmaciel/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
@@ -53,5 +86,8 @@ Tenho experiência em **SAP BTP, RAP, OData, Fiori/UI5** e também estou expandi
   </a>
   <a href="https://wa.me/5527999511133" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+    <a href="https://www.instagram.com/mvmaciell/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
