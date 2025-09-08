@@ -7,8 +7,8 @@ Tenho experiência em **SAP BTP, RAP, OData, Fiori/UI5** e também estou expandi
 
 <!-- Stats -->
 <div align="center">
-  <img width="49%" alt="GitHub Stats de Marcus Vinícius" src="https://github-readme-stats.vercel.app/api?username=mvmaciell&show_icons=true&theme=tokyonight&hide_border=true&v=3" />
-  <img width="49%" alt="Linguagens mais usadas por Marcus Vinícius" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvmaciell&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&custom_title=Linguagens%20mais%20usadas&v=3" />
+  <img width="49%" height="180em" alt="GitHub Stats de Marcus Vinícius" src="https://github-readme-stats.vercel.app/api?username=mvmaciell&show_icons=true&theme=tokyonight&hide_border=true&v=3" />
+  <img width="41%" height="180em"alt="Linguagens mais usadas por Marcus Vinícius" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvmaciell&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&custom_title=Linguagens%20mais%20usadas&v=3" />
 </div>
 
 <br>
@@ -32,9 +32,21 @@ Tenho experiência em **SAP BTP, RAP, OData, Fiori/UI5** e também estou expandi
   <img alt="Docker"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
----
-
 <br>
+
+<div align="center">
+
+![BAPI](https://img.shields.io/badge/-BAPI-001A5E?style=for-the-badge&logo=sap&logoColor=white)
+![RFC](https://img.shields.io/badge/-RFC-001A5E?style=for-the-badge&logo=sap&logoColor=white)
+![ALV](https://img.shields.io/badge/-ALV-001A5E?style=for-the-badge&logo=sap&logoColor=white)
+![Smart Forms](https://img.shields.io/badge/-Smart%20Forms-001A5E?style=for-the-badge&logo=sap&logoColor=white)
+![Module Pool](https://img.shields.io/badge/-Module%20Pool-001A5E?style=for-the-badge&logo=sap&logoColor=white)
+![BAdIs](https://img.shields.io/badge/-BAdIs-001A5E?style=for-the-badge&logo=sap&logoColor=white)
+![Workflow](https://img.shields.io/badge/-WorkFlow-001A5E?style=for-the-badge&logo=sap&logoColor=white)
+
+</div>
+
+---
 
 <h3 align="center"> Atualmente estou:</h3>
 
@@ -43,19 +55,19 @@ Tenho experiência em **SAP BTP, RAP, OData, Fiori/UI5** e também estou expandi
 <table>
   <tr>
     <td align="center" width="25%">
-      🚀 <b>Aprofundando em Arquitetura BTP</b><br>
+       <b>Aprofundando em Arquitetura BTP</b><br>
       ↳ RAP, Fiori Elements, CAP
     </td>
     <td align="center" width="25%">
-      🖥️ <b>Criando projetos Fiori/UI5 freestyle</b><br>
+       <b>Criando projetos Fiori/UI5 freestyle</b><br>
       ↳ Desenvolvimento no VS Code
     </td>
     <td align="center" width="25%">
-      🎨 <b>Estudando Front-End moderno</b><br>
+       <b>Estudando Front-End moderno</b><br>
       ↳ Vue.js e React
     </td>
     <td align="center" width="25%">
-      🐳 <b>Explorando Node.js + Docker</b><br>
+       <b>Explorando Node.js + Docker</b><br>
       ↳ Deploy de projetos pessoais
     </td>
   </tr>
@@ -65,19 +77,16 @@ Tenho experiência em **SAP BTP, RAP, OData, Fiori/UI5** e também estou expandi
 
 ---
 
-## 🔧 Controle de versão & CI/CD
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+<br>
 
-## 💻 Sistemas operacionais
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+| Controle de Versão | Sistemas Operacionais | SAP  |
+|--------------------|-----------------------|-------------------|
+| ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | ![ABAP](https://img.shields.io/badge/-sapgui-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) ![BTP](https://img.shields.io/badge/-SAP%20BTP-001A5E?style=for-the-badge&logo=sap&logoColor=white) ![Fiori](https://img.shields.io/badge/-Fiori-009FDA?style=for-the-badge&logo=sap&logoColor=white) ![OData](https://img.shields.io/badge/-OData-5C2D91?style=for-the-badge&logo=odata&logoColor=white) ![S4HANA](https://img.shields.io/badge/-SAP%20S%2F4HANA-008FD3?style=for-the-badge&logo=sap&logoColor=white) ![SAP Web IDE](https://img.shields.io/badge/-SAP%20Web%20IDE-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)|
 
+<br>
 
 ## 📬 Contato
-<div> 
+<div>
   <a href="https://www.linkedin.com/in/mvmaciel/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
