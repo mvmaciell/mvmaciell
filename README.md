@@ -56,19 +56,15 @@ Tenho experiência em **SAP BTP, RAP, OData, Fiori/UI5** e também estou expandi
   <tr>
     <td align="center" width="25%">
        <b>Aprofundando em Arquitetura BTP</b><br>
-      ↳ RAP, Fiori Elements, CAP
     </td>
     <td align="center" width="25%">
        <b>Criando projetos Fiori/UI5 freestyle</b><br>
-      ↳ Desenvolvimento no VS Code
     </td>
     <td align="center" width="25%">
        <b>Estudando Front-End moderno</b><br>
-      ↳ Vue.js e React
     </td>
     <td align="center" width="25%">
        <b>Explorando Node.js + Docker</b><br>
-      ↳ Deploy de projetos pessoais
     </td>
   </tr>
 </table>
