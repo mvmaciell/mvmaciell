@@ -1,0 +1,38 @@
+﻿name: profile-stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate profile stats card
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/repos.svg
+          colors: dark-dimmed
+          custom-title: GitHub Stats de Marcus Vinícius
+          hide-keys: languages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/languages.svg
+          colors: dark-dimmed
+          custom-title: Linguagens mais usadas
+          hide-keys: general, contributions, repositories
+          max-languages: 7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -7,8 +7,8 @@ Tenho experiência em **SAP BTP, RAP, OData, Fiori/UI5** e também estou expandi
 
 <!-- Stats -->
 <div align="center">
-  <img width="49%" height="180em" alt="GitHub Stats de Marcus Vinícius" src="https://github-readme-stats.vercel.app/api?username=mvmaciell&show_icons=true&theme=tokyonight&hide_border=true&v=3" />
-  <img width="41%" height="180em"alt="Linguagens mais usadas por Marcus Vinícius" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvmaciell&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&custom_title=Linguagens%20mais%20usadas&v=3" />
+  <img width="49%" alt="GitHub Stats de Marcus Vinícius" src="images/repos.svg" />
+  <img width="41%" alt="Linguagens mais usadas por Marcus Vinícius" src="images/languages.svg" />
 </div>
 
 <br>
